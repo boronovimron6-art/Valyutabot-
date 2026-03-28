@@ -3,7 +3,7 @@ import requests
 from telebot import types
 
 # BotFather bergan token
-TOKEN = '8606825506:AAE8vv8NAb8QNWd6gJpa0kkmN9VEmtvSjdA'
+TOKEN = "8606825506:AAE8vv8NAb8QNWD6gJpa0kkmN9VEmtvSJdA"
 
 bot = telebot.TeleBot(TOKEN)
 
